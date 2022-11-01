@@ -14,7 +14,7 @@ https:///europe-west3-kotanipay-prod.cloudfunctions.net/api_v2
 
 
 
-**Test**&#x20;
+**Sandbox**&#x20;
 
 ```
  https://europe-west3-kotanipay-test.cloudfunctions.net/api_v2
