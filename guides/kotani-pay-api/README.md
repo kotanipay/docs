@@ -9,7 +9,7 @@ coverY: 0
 **Production**&#x20;
 
 ```
-https://europe-west3-kotanimac.cloudfunctions.net/api_v2
+https:///europe-west3-kotanipay-prod.cloudfunctions.net/api_v2
 ```
 
 
