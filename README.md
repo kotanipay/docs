@@ -142,8 +142,8 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [getting-started-with-the-api](guides/getting-started-with-the-api/)
 {% endcontent-ref %}
 
-{% content-ref url="guides/kotani-pay-api/" %}
-[kotani-pay-api](guides/kotani-pay-api/)
+{% content-ref url="guides/kotani-pay-api.md" %}
+[kotani-pay-api.md](guides/kotani-pay-api.md)
 {% endcontent-ref %}
 
 ###
